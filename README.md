@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himesh4141&label=Profile%20views&color=0e75b6&style=flat" alt="himesh4141" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@gurramhimesh" target="blank"><img src="https://img.shields.io/twitter/follow/@gurramhimesh?logo=twitter&style=for-the-badge" alt="@gurramhimesh" /></a> </p>
-
+<a href="https://twitter.com/@gurramhimesh" target="blank"><img src="https://img.shields.io/badge/Follow-@gurramhimesh-black?style=for-the-badge&logo=x" alt="@gurramhimesh" /></a>
 - 📫 How to reach me **himeshgurram4141@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
