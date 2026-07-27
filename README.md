@@ -23,6 +23,7 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=himesh4141&" alt="himesh4141" /></p>
 
-![GitHub Snake](https://githubusercontent.com)
+<img src="https://githubusercontent.com" alt="GitHub Contribution Snake Animation" />
+
 
 
