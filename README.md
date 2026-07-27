@@ -23,7 +23,8 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=himesh4141&" alt="himesh4141" /></p>
 
-<img src="https://githubusercontent.com" alt="GitHub Contribution Snake Animation" />
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himesh4141/Himesh4141/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himesh4141/Himesh4141/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Himesh4141/Himesh4141/output/dist/github-contribution-grid-snake.svg" />
+</picture>
